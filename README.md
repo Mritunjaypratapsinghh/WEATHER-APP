@@ -8,5 +8,5 @@ The project may also include features such as weather forecasts, radar maps, or 
 The user interface may be designed to be responsive, allowing it to adapt to different screen sizes and device types.
 The project may include functionality to save or favorite locations, allowing users to quickly view weather data for their preferred locations.
 The project may be customized to suit specific needs, such as integration with other apps or services.
-The project may include documentation and instructions for installation and usage, making it accessible to a wide range of users.
+
 The Weather-App project is open source, meaning that it is free to use, modify, and distribute. This allows developers to customize the code to suit their specific needs or to add new features.
